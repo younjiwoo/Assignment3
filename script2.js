@@ -116,7 +116,7 @@
 // #4
 //var randomId;
 //function generateId() {
-//    randomId = Math.random().toString(32).substring(2, 10);
+//    randomId = Math.random().toString(36).substring(2, 10);
 //}
 //generateId();
 //console.log(randomId);
